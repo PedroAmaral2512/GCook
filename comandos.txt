@@ -20,5 +20,3 @@ dotnet add package Pomelo.EntityFrameworkCore.MySql --version 9.0.0
 
 dotnet add package Microsoft.EntityFrameworkCore.SqlServer --version 9.0.9
 dotnet add package Microsoft.VisualStudio.Web.CodeGeneration.Design --version 9.0.0
-
-
